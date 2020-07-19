@@ -1,0 +1,16 @@
+com\example\greeting\controller\MainController.class
+com\example\greeting\domain\User.class
+com\example\greeting\domain\dto\CaptchaResponseDto.class
+com\example\greeting\domain\Message.class
+com\example\greeting\config\WebSecurityConfig.class
+com\example\greeting\config\MvcConfig.class
+com\example\greeting\service\UserService.class
+com\example\greeting\domain\Role.class
+com\example\greeting\service\MailSender.class
+com\example\greeting\ServingWebContentApplication.class
+com\example\greeting\config\MailConfig.class
+com\example\greeting\controller\UserController.class
+com\example\greeting\repos\UserRepo.class
+com\example\greeting\repos\MessageRepo.class
+com\example\greeting\controller\ControllerUtils.class
+com\example\greeting\controller\RegistrationController.class

@@ -1,0 +1,16 @@
+D:\Projects\Java\demo\greeting\src\main\java\com\example\greeting\controller\RegistrationController.java
+D:\Projects\Java\demo\greeting\src\main\java\com\example\greeting\repos\MessageRepo.java
+D:\Projects\Java\demo\greeting\src\main\java\com\example\greeting\service\MailSender.java
+D:\Projects\Java\demo\greeting\src\main\java\com\example\greeting\config\MvcConfig.java
+D:\Projects\Java\demo\greeting\src\main\java\com\example\greeting\domain\User.java
+D:\Projects\Java\demo\greeting\src\main\java\com\example\greeting\ServingWebContentApplication.java
+D:\Projects\Java\demo\greeting\src\main\java\com\example\greeting\config\MailConfig.java
+D:\Projects\Java\demo\greeting\src\main\java\com\example\greeting\controller\ControllerUtils.java
+D:\Projects\Java\demo\greeting\src\main\java\com\example\greeting\domain\Role.java
+D:\Projects\Java\demo\greeting\src\main\java\com\example\greeting\repos\UserRepo.java
+D:\Projects\Java\demo\greeting\src\main\java\com\example\greeting\service\UserService.java
+D:\Projects\Java\demo\greeting\src\main\java\com\example\greeting\controller\MainController.java
+D:\Projects\Java\demo\greeting\src\main\java\com\example\greeting\domain\dto\CaptchaResponseDto.java
+D:\Projects\Java\demo\greeting\src\main\java\com\example\greeting\config\WebSecurityConfig.java
+D:\Projects\Java\demo\greeting\src\main\java\com\example\greeting\controller\UserController.java
+D:\Projects\Java\demo\greeting\src\main\java\com\example\greeting\domain\Message.java
